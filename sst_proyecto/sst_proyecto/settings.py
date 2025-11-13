@@ -46,7 +46,10 @@ INSTALLED_APPS = [
     #'leaflet',
 
     # Apps del proyecto
-
+    'usuarios',
+    'control_acceso',
+    'mapas',
+    'emergencias',
 ]
 
 MIDDLEWARE = [
