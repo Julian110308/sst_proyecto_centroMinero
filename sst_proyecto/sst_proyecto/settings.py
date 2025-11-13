@@ -148,7 +148,7 @@ USE_I18N = True
 USE_TZ = True
 
 # Modelo de usuario personalizado (lo crearemos)
-# AUTH_USER_MODEL = 'usuarios.Usuario'
+AUTH_USER_MODEL = 'usuarios.Usuario'
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators

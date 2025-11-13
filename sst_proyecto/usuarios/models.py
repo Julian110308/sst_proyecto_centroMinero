@@ -95,3 +95,4 @@ class Visitante(models.Model):
     
     def __str__(self):
         return f'{self.nombre_completo} - {self.fecha_visita}'
+    
